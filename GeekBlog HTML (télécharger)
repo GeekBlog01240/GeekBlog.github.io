@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GeekBlog</title>
+    </head>
+    
+     <body>
+      
+     <h1>GeekBlog</h1>
+     <link rel="stylesheet" href="style.css">
+     <div id="Télécharger">
+     <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364657042210._szw3000h2000_.jpg">
+
+     <h2>Télécharger</h2>
+     
+     <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364658044817._szw480h360_.jpg">
+
+     <br>La quête de l'aventure est un jeu gratuit téléchargeable sur Play Store mais jouable aussi sur PC. Ce jeu est jouable seul ou en multijoueur pour plus de fun. Le but du jeu est simple, vous<br>
+     devrez ramasser 10 cœurs avant la fin du temps donné, sinon vous perdrez.<br>
+
+     <p>Où est la difficulté ? Me direz vous ?</p>
+
+     <br>Vous pourrez ajouter des monstres de trois difficultés différentes : Facile, Moyen, Difficile. Plus la Difficulté est haute, plus les monstres seront présent et rapide.<br>
+     Si un monstre vient à vous toucher, c'est finis pour vous. Et vous devrez recommencer.<br>
+
+     <p>Alors qu'attendez vous ?</p>
+
+     <p>Le lien pour aller sur la page du jeu (PC) : https://versun834.itch.io/la-qute-de-laventure</p>
+
+     <p>Le lien du jeu (PlayStore) : https://play.google.com/store/apps/details?id=com.versun834.LaqutedelAventure</p>
+
+     <p>Un lien qui vous emmène directement sur le téléchargement pour les joueurs pc :</p>
+
+     <p>https://dl.patchkit.net/d/qampa0iqlhb886b73gzw</p>
+
+     <a href="GeekBlog HTML (accueil)"><h2>Accueil</h2></a>
+     <a href="GeekBlog HTML (annonces)"><h2>Annonces</h2></a>
+     <a href="GeekBlog HTML (partenaire)"><h2>Partenaire</h2></a>
+     <a href="GeekBlog HTML (notre équipe)"><h2>Notre équipe</h2></a>
+     
+     
+
+
+     </body>
+
+</html>     

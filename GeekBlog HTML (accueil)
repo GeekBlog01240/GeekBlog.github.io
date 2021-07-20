@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GeekBlog</title>
+    </head>
+    
+    <body>
+         
+         <h1>GeekBlog</h1> 
+         <link rel="stylesheet" href="style.css">
+         <div id="Accueil">
+         <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364657042210._szw3000h2000_.jpg">
+         
+         <h2>Accueil</h2>
+
+         <p>Qu'est-ce que ce site ?</p> 
+
+         <p>Combien sommes-nous ?</p>
+
+         <br>Nous sommes actuellement deux pour le moment, je présente SUUUPER GAME et moi même.<br>
+         Nous cherchons toujours du monde.<br>
+
+         <p>Vous pouvez allez ici pour avoir plus d'informations.</p>
+
+         <p>Qui suis-je ?</p>
+
+         <br>Je me présente. Je m'appelle KIYOSHI et je suis un fan de jeux vidéo, j'aime tout les jeux du style MMORPG (dofus, wow...), aventure (uncharted, farcry, assassin's creed...), mais aussi des<br> jeux jouable en ligne avec ses amis, que ce soit de la compétition ou non (minecraft, roblox, cs:go, grand theft auto V...).<br>
+
+         <p>Pourquoi Geek Blog ?</p>
+
+         <p>J'ai toujours rêvé avoir mon propre blog site, où je pourrais venir transmettre ma passion aux autres. J'ai toujours aimé voir les blogs de jeux vidéo des autres, mais je trouvais qu'il<br>manquer beaucoup de choses sur leurs blogs, alors je me décide de faire le mien.<br>
+
+         <p>Pourquoi ce nom ?</p>
+
+         <p>Étant petit, je me faisais appeller le "geek" par les gens de mon école primaire, car je jouais aux jeux vidéo, et que j'aimais ça. Du coup, je me suis dit "Pourquoi ne pas l'appeller Geek en<br>référance à cette histoire, puis rajouter blog car c'est le but du site ?"<br>
+
+         <p>Qu'est-ce qu'il y aura en contenu ?</p>
+ 
+         <p>Il se peut qu'il y ait des analyses d'animés, ou bien des reviews de manga, ou bien encore analyses de films comme détails caché..<br>
+         Mais il y aura aussi, des annonces sur les jeux vidéo, comme par-exemple : Des easter-eggs caché, double-fins, speedrun.<br>
+
+         <p>Cordialement,</p>
+         <p>KIYOSHI</p>
+
+         
+         <a href="GeekBlog HTML (annonces)"><h2>Annonces</h2></a>
+         <a href="GeekBlog HTML (télécharger)"><h2>Télécharger</h2></a>
+         <a href="GeekBlog HTML (partenaire)"><h2>Partenaire</h2></a>
+         <a href="GeekBlog HTML (notre équipe)"><h2>Notre équipe</h2></a>
+         
+
+
+
+    
+
+
+
+         </body>
+
+
+
+
+</html>      

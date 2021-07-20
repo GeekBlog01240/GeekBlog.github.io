@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GeekBlog</title>
+    </head>
+    
+    <body>
+        
+         <h1>GeekBlog</h1>
+         <link rel="stylesheet" href="style.css">
+         <div id="Annonces">
+         <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364657042210._szw3000h2000_.jpg">
+
+         <h2>Annonce</h2>
+
+         <p>Bonjour à tous, je fais cette annonce car je recherche actuellement des personnes afin de m'aider pour mon Blog :</p>
+
+         <p>- Je recherche des bloggers si vous êtes intéresser pour m'aider à publier des articles je ne dit pas non.</p>
+
+         <p>Comment faire pour me contacter ?</p>
+
+         <br>Vous pouvez me contacter via Discord voilà mon discord : DrAsfax#3648<br>
+         Ou bien par mail : geekblog2021@gmail.com<br>
+
+         <p>Le formulaire :</p>
+
+         <p>Prénom :</p>
+
+         <p>Âge :</p>
+
+         <p>Son Discord (pas obligatoire mais ce serai bien) :</p>
+
+         <p>Formule pour le rôle de : Recruteur, Écrivain (effacer celui que vous ne voulez pas)</p>
+
+         <p>Motivation :</p>
+
+         <p>Pourquoi vous et pas un autre ? :</p>
+
+         <p>Vos compétences :</p>
+
+         <p>(Merci de votre message, notre gérant vous joindra au plus vite)</p>
+
+         
+         <a href="GeekBlog HTML (accueil)"><h2>Accueil</h2></a>
+         <a href="GeekBlog HTML (télécharger)"><h2>Télécharger</h2></a>
+         <a href="GeekBlog HTML (partenaire)"><h2>Partenaire</h2></a>
+         <a href="GeekBlog HTML (notre équipe)"><h2>Notre équipe</h2></a>
+         
+
+
+
+    </body>
+
+</html>

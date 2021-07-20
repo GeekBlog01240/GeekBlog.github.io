@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+     <head>
+        <meta charset="utf-8">
+        <title>GeekBlog</title>
+     </head>
+    
+     <body>
+      
+     <h1>GeekBlog</h1>
+     <link rel="stylesheet" href="style.css">
+     <div id="Notreéquipe">
+     
+
+     <h2>Notre équipe</h2>
+
+    <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364657042210._szw3000h2000_.jpg">
+
+    <p>Salut moi c'est KIYOSHI et je suis le gérant de ce site.</p>
+
+    <p>J'ai créer ce site en Juin 2021, et le site à plutôt bien démaré alors je l'améliore tout le temps.</p>
+
+    <br>Je me présente. Je m'appelle KIYOSHI et je suis un fan de jeux vidéo, j'aime tout les jeux du style MMORPG (dofus, wow...), aventure (uncharted, farcry, assassin's creed...), mais aussi des jeux<br> jouable en ligne avec ses amis, que ce soit de la compétition ou non (minecraft, roblox, cs:go, grand theft auto V...). Ayant toujours lu des articles de jeux vidéos sur le net, j'ai toujours rêver<br>avoir mon blog, car sur ceux des autres, je ne trouvais pas forcément ce que je cherchais.<br>
+
+    <img src="http://cdn.simplesite.com/i/f7/b8/282882357568387319/i282882364658031322._szw1280h1280_.jpg">
+
+    <p>Salut, Je suis SUUUPER GAME, jeune youtuber, écrivain passionné de jeux vidéo et d'écriture. Je fait des articles sur le site.</p>
+
+    <a href="GeekBlog HTML (accueil)"><h2>Accueil</h2></a>
+    <a href="GeekBlog HTML (annonces)"><h2>Annonces</h2></a>
+    <a href="GeekBlog HTML (télécharger)"><h2>Télécharger</h2></a>
+    <a href="GeekBlog HTML (partenaire)"><h2>Partenaire</h2></a>
+    
+
+
+
+    </body>
+
+
+</html>
